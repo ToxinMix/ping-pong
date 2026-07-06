@@ -1,0 +1,12 @@
+{
+    "balls": {
+        "default": "images/ball_default.png",
+        "fire": "images/ball_fire.png",
+        "ice": "images/ball_ice.png"
+    },
+
+    "paddles": {
+        "default": "images/paddle_default.png",
+        "gold": "images/paddle_gold.png"
+    }
+}
